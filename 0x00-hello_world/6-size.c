@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - mian block
+ *main - mian block
  *
- * Return: Always 0 (success)
+ *Return: Always 0 (success)
  */
 
 int main(void)
