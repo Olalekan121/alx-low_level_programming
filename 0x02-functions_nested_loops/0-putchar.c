@@ -1,6 +1,9 @@
 #include "main.h"
+
 /**
  * main - Entry point
+ *
+ * Description: Main code to run
  *
  * Return: Always 0 (Success)
  */
